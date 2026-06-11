@@ -1,0 +1,2 @@
+# NiiSowahDatabaseCohortB
+Homework Submission
